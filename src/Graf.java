@@ -1,6 +1,7 @@
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
+// Pornire UI
 public class Graf
 {	
 	private static void initUI() {
