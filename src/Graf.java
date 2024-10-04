@@ -2,6 +2,7 @@ import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
 // Pornire UI
+// Test de commit
 public class Graf
 {	
 	private static void initUI() {
