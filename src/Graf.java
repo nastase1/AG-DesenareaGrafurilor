@@ -1,7 +1,8 @@
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
-// Pornire UI
+// Alte
+// Commentari
 public class Graf
 {	
 	private static void initUI() {
