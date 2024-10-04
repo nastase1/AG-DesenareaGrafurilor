@@ -2,6 +2,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Point;
 
+// Clasa pentru un arc
 public class Arc
 {
 	private Point start;
