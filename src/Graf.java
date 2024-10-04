@@ -1,8 +1,8 @@
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
-// Alte
-// Commentari
+// Pornire UI
+// Test de commit
 public class Graf
 {	
 	private static void initUI() {
